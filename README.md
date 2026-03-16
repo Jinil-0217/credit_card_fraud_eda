@@ -75,18 +75,6 @@ Technologies Used
 
 ---
 
-Project Structure
-
-
-credit_card_fraud_eda/
-│
-├── credit_card_fraud_eda.ipynb
-├── README.md
-└── requirements.txt
-
-
----
-
 How to Run the Project
 
 1. Clone the repository
